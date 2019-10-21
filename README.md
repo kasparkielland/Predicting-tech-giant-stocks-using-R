@@ -1,1 +1,1 @@
-# Predicting-tech-giant-stocks-using-R
+# Predicting tech-giant stocks using R
